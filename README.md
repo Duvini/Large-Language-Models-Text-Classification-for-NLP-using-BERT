@@ -39,12 +39,11 @@ This repository contains two Jupyter Notebook files that demonstrate practical a
   - `matplotlib` (for visualization)
 
 ### Installation
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/your_username/nlp-projects.git
    cd nlp-projects
 ```
-pip install -r requirements.txt
 jupyter notebook IMDB_text_classification.ipynb
 jupyter notebook NLP_tasks_with_Transformers.ipynb
 ```
