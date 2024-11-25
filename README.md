@@ -43,7 +43,7 @@ Clone this repository:
    ```bash
    git clone https://github.com/your_username/nlp-projects.git
    cd nlp-projects
-```
+
 jupyter notebook IMDB_text_classification.ipynb
 jupyter notebook NLP_tasks_with_Transformers.ipynb
 ```
